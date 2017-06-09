@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MyA4988	KEYWORD1	MyA4988
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+version	KEYWORD2
+
+######################################
+# Instances (KEYWORD2)
+#######################################
+buttons	KEYWORD2
+debaunceTime	KEYWORD2
+holdTime	KEYWORD2
+doubleClickTime	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+number_of_buttons	LITERAL1
