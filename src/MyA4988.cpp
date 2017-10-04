@@ -1,5 +1,5 @@
 /*
- * MyController.cpp - by Ernest Selman 
+ * MyController.cpp - by Ernest Selman
  *
  * Stepper library for 4 wire bipolar steppers, using A4988 stepper motor controller
  *
