@@ -1,5 +1,6 @@
 /*
  * MyController.cpp - by Ernest Selman
+ * modified from Arduino Stepper Library
  *
  * Stepper library for 4 wire bipolar steppers, using A4988 stepper motor controller
  *
