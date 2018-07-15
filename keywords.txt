@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-MyA4988	KEYWORD1	MyA4988
+MyA4988	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
